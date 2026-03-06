@@ -63,7 +63,7 @@ Passos
 
 Clone o repositório:
 
-bashgit clone https://github.com/seu-usuario/bootcamp-poo.git
+bashgit clone https://github.com/RickGZ007/Bootcamp_DIO1
 
 Abra o IntelliJ → File → Open → selecione o arquivo pom.xml → Open as Project
 Aguarde o Maven indexar o projeto
